@@ -1,0 +1,11 @@
+nTopology
+Homework Assignment
+February 28, 2021
+===================================
+
+This assignment was to visualize a binary tree with or without nodes. The project involved creating a custom widget to make this visualization occur.
+
+For this assignment, I used a QFrame object so that I can draw an actual border and it would show a border so that a node can actually be seen.
+I also wrote a C++ class that inherited QFrame so that certain Qt objects can be added. Also, I incorporated the use of a right mouse click to create a menu of options for each node. You will note that there is no ability to right click outside a node.
+
+This and code files will appear in both GitHub and in the added zip file.
