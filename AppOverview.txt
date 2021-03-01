@@ -9,3 +9,5 @@ For this assignment, I used a QFrame object so that I can draw an actual border 
 I also wrote a C++ class that inherited QFrame so that certain Qt objects can be added. Also, I incorporated the use of a right mouse click to create a menu of options for each node. You will note that there is no ability to right click outside a node.
 
 This and code files will appear in both GitHub and in the added zip file.
+
+Qt was obtained in the MSYS2 environment and packages were installed so that version 5.12.3 was used (with LTS). This code was written so that Qt 5.15 could be used as well.
